@@ -6,8 +6,8 @@
 <title>산길</title>
 <style>
   p.poem {
-    color: blue;       /* 시 글자색 */
-    margin-left: 30px; /* 오른쪽으로 살짝 이동 */
+    color: blue;       
+    margin-left: 30px; 
   }
 </style>
 </head>
